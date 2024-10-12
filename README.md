@@ -1,9 +1,9 @@
 # mecanica-hiudayexcel
+
 Guia de mecanica en general para hiunday excel
 
+_Conocimientos generales_
 
- Conocimientos generales
+_Hiunday Excel_
 
-1 - Partes de un motor de combustión interna
-
-_ 
+- _Especificaciones_
